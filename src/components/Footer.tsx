@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h4>Arquitectura & Construcción</h4>
+            <h4>Arquitectura & Construcción HMK</h4>
             <p>Especialistas en diseño y construcción de proyectos innovadores</p>
           </div>
           <div className="footer-section">
@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 Arquitectura & Construcción. Todos los derechos reservados.</p>
+          <p>&copy; 2024 Arquitectura & Construcción HMK. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>

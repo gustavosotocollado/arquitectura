@@ -133,7 +133,7 @@ Edita las variables CSS en [src/styles/index.css](src/styles/index.css):
 
 ## Licencia
 
-© 2024 Arquitectura & Construcción. Todos los derechos reservados.
+© 2024 Arquitectura & Construcción HMK. Todos los derechos reservados.
 
 ## Contacto
 
